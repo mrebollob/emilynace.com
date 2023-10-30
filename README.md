@@ -17,3 +17,5 @@ See it live in action at <https://volny.github.io/creative-theme-jekyll/>
 ```
 bundle exec jekyll serve
 ```
+
+https://jekyllrb.com/docs/
