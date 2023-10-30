@@ -1,2 +1,10 @@
 _site/
 .sass-cache/
+
+.bundle
+.DS_Store
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+.firebase
+Gemfile.lock

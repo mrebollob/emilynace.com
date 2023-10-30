@@ -55,6 +55,10 @@ p {
     color: rgba(white, .7);
 }
 
+.text-light {
+    color: white;
+}
+
 section {
     padding: 100px 0;
 }
@@ -317,7 +321,7 @@ header {
 
 // Contact
 #contact .fa {
-    color: $theme-dark;
+    color: white;
     font-size: 4em;
 }
 
